@@ -12,7 +12,7 @@
 ## Overview
 ### Introduction
 - Funeral Website to share warm wishes and condolence messages.
-![alt text](image/valentines.PNG)
+![alt text](image/farewellFuneral.PNG)
 
 ## Process + Development
 ### Development
